@@ -18,10 +18,7 @@ The service accepts one laboratory order as a JSON string, validates the input, 
 
 The implementation is kept simple and focused on the requirements of the assessment.
 
-> Note: This version is implemented in Python for practice and learning.
-> The assessment submission requires the equivalent implementation in C#.
 
----
 
 ## Project Structure
 
